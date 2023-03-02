@@ -14,3 +14,5 @@ TP.c:
 TP.exe:
     the executable file.
     
+This project is realised by ABDELKEBIR Achraf and MERHAB Abderraouf.
+1st year preparatory cycle in the Higher National School of Computer Science (L'Ecole Nationale Supérieure d'Informatique ESI ex-INI)
